@@ -1,0 +1,10 @@
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\JogodaVelha\JogodaVelha\bin\Debug\JogodaVelha.exe.config
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\JogodaVelha\JogodaVelha\bin\Debug\JogodaVelha.exe
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\JogodaVelha\JogodaVelha\bin\Debug\JogodaVelha.pdb
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.csprojAssemblyReference.cache
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.Form1.resources
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.Properties.Resources.resources
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.csproj.GenerateResource.cache
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.csproj.CoreCompileInputs.cache
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.exe
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.pdb
